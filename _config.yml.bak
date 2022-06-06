@@ -21,12 +21,12 @@
 #  algorithms and data structures (dictionaries, arrays, linked lists).
 #  Student learn these concepts through studying the Python programming
 #  language.  
-baseurl: "/a5216" # the subpath of your site, e.g. /blog
+baseurl: "/a7205" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-number: A5216
-title: Power Semiconductor Drives
-semester: IV-I (2022-2023)
+number: A7205
+title: Electric Power Generation
+semester: 2021-2022
 
 navigation:
   - title: Overview
@@ -44,7 +44,7 @@ navigation:
   - title: Resources
     subfolderitems:
       - page: Lecture Notes
-        url: '#lecturenotes'
+        url: 'lecturenotes'
   - title: Coursework
     subfolderitems:
       - page: Practice
@@ -60,7 +60,7 @@ instructors:
   - id: srv
     name: Dr. S. Ravivarman
     email: ravivarman@vardhaman.org
-    web: http://wwww.sravivarman.com
+    #web: http://wwww.example.com
     phone: +91 99942 77431
 
 offerings:
