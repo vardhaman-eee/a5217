@@ -11,45 +11,44 @@ layout: course-single
 
 # <a name="description">Objectives</a>
 
-  This course focuses on basic principles of speed control of DC & AC machines. The study of improvement of speed response by closed loop control is emphasized.
+  In this course it is aimed to the students the principles and applications of control system in everyday life. The basic concepts of block diagram reduction, time domain analysis solution analysis to time invariant systems and also deals with the different aspects of the stability analysis of the system in frequency domain and time domain.
 
 ## <a name="outcomes">Course Outcomes</a>
 
 After the completion of the course, the student will be able to:
 
-A5216.1 Analyze 1 phase and 3phase controlled converters for speed control operation of DC Drives.
+A5217.1 Apply the basic knowledge for economic operation, load frequency control and reactive power compensation.
 
-A5216.2 Apply the knowledge of DC-Dc Converter and dual converter for speed and torque control of DC Drives.
+A5217.2 Analyze the static and dynamic performance of single and multi area Load Frequency Control.
 
-A5216.3 Analyze variable frequency control of Induction motor on stator side using different converters.
+A5217.3 Analyzethe techniques and devices used for reactive power compensation.
 
-A5216.4 Test the performance of Induction Motor by conducting different speed control methods.
+A5217.4 Evaluate the load scheduling among various thermal and hydrothermal plants.
 
-A5216.5 Assess different power electronic converter to control speed of synchronous motor drives.
+A5217.5 Model various components of an isolated power system.
 
 # <a name="syllabus">Syllabus</a>
 
-**CONTROL OF DC MOTORS BY 1-Ph CONTROLLED CONVERTERS:** Introduction to Thyristor controlled Drives, Single Phase Semi and Full controlled converters connected to D.C separately excited and D.C series motors, continuous operation, output voltage and current waveforms. Speed and Torque expressions, Speed – Torque Characteristics. 
-**CONTROL OF DC MOTORS BY 3-Ph CONTROLLED CONVERTERS:** Three phase semi and fully controlled converters connected to D.C separately excited and D.C series motors, output voltage and current waveforms. Speed and Torque expressions, Speed –Torque characteristics, Numerical problems. 
-FOUR QUADRANT OPERATIONS OF DC DRIVES: Electric Braking – Plugging, Dynamic and Regenerative Braking operations, Numerical problems.
+**INTRODUCTION TO ECONOMIC OPERATION OF POWER SYSTEMS:** Optimal operation of generators in thermal power stations, Heat rate curve, Cost curve, Incremental fuel costs, Production costs, Input-output characteristics, Optimum generation allocation with and without line losses, Loss coefficients, General transmission line loss formula.
 
-**CONTROL OF DC MOTORS BY CHOPPERS:** Single quadrant, Two –quadrant and four-quadrant chopper fed separately excited dc motor. Continuous operation, Output voltage and current waveforms, Speed torque expressions, speed torque characteristics. Closed loop operation of DC motor (Block Diagram Only) Numerical problems.
+**HYDROTHERMAL SCHEDULING:** Optimal scheduling of hydrothermal system, Hydroelectric power plant models, Scheduling problems, Short term hydrothermal scheduling problem. 
 
-**CONTROL OF INDUCTION MOTORS:** Variable voltage characteristics, Variable frequency characteristics, V/F Control of Induction motor Voltage source Inverter and Current source Inverter control of induction motor. Comparison of VSI and CSI operations, Speed torque characteristics, numerical on induction motor drives, closed loop operation of induction motor drives (Block Diagram Only) Numerical problems.
+**MODELING OF TURBINE, SPEED GOVERNOR, AND EXCITATION SYSTEM:** First order turbine model, Block diagram representation of steam turbines and approximate linear models, Mathematical modeling of speed governing system, Derivation of small signal transfer function, Fundamental characteristics of an excitation system Transfer function.
 
-**PWM CONTROL OF INDUCTION MOTOR DRIVES:** Introduction to PWM, Sinusoidal PWM (SPWM) control of Induction Motor, Space vector modulation (SVPWM) control of Induction Motor. 
-**CONTROL OF SYNCHRONOUS MOTOR DRIVES:** Control characteristics of Synchronous motor drive, VSI fed and CSI fed Synchronous Motor, Closed Loop operation of synchronous motor drives (Block Diagram Only).
+**LOAD FREQUENCY CONTROL:** Necessity of keeping frequency constant, Definition of control area, Single area control, Block diagram representation of an isolated power system, Steady state analysis, Dynamic response, Load frequency control of 2-area system, Uncontrolled case and controlled case, Tie-line bias control.
+**LOAD FREQUENCY CONTROLLERS:** Proportional plus integral control of single area and its block diagram representation, Steady state response, Load frequency control, Economic dispatch control.
+
+**REACTIVE POWER CONTROL:** Principle of reactive power control, Load compensation, Specifications of load compensator, Uncompensated and compensated transmission lines, Shunt and series compensation.
 
 # <a name="textbooks">Text Books</a>
 
-1. G. K. Dubey (2002), Fundamentals of Electric Drives, 2nd Edition, Narosa Publications, New Delhi.
-2. M. H. Rashid (2003), Power Electronic Circuits, Devices and applications, 3rd Edition, Prentice Hall of India, New Delhi, India.
+1. I. J. Nagrath, D.P. Kothari(2006), modern power system analysis, 3rd Edition, McGraw Hill Publishers, New Delhi.
+2. P.S.R. Murthy(2008), power system operation and control, 1st Edition, Tata McGraw Hill Publishers, New Delhi.
 
 ## <a name="references">Reference Books</a>
 
-1. M. D. Singh, K. B. Khanchandani (2008), Power Electronics, 2nd Edition, Tata McGraw Hill Publications, New Delhi.
-2. Vedam Subramanyam (2008), Thyristor Control of Electric drives 1st Edition, Tata McGraw Hill Publications, New Delhi, India.
-3. S. K. Pillai (2007), A First course on Electrical Drives, 2nd Edition, New Age International (P) Ltd., New Delhi.
+1. Hadi Saadat(2010), power system analysis, revised edition, PSA publishers, New Delhi
+2. O.I. Elgerd(2007), Electric Energy Systems Theory, 2nd edition, Tata McGraw Hill Publishers, New Delhi.
 
 <hr>
 
