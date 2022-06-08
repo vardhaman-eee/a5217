@@ -11,7 +11,7 @@ layout: course-single
 
 # <a name="description">Objectives</a>
 
-  In this course it is aimed to the students the principles and applications of control system in everyday life. The basic concepts of block diagram reduction, time domain analysis solution analysis to time invariant systems and also deals with the different aspects of the stability analysis of the system in frequency domain and time domain.
+  This subject deals with the economic operation of power systems. It emphasizes on load flow studies, single area and two area load frequency control and reactive power control.
 
 ## <a name="outcomes">Course Outcomes</a>
 
@@ -76,24 +76,6 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 |2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
 |3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
 |4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-
-## <a name="practice">Practice</a>
-
-1. Speed Control of DC Motor using single phase Half Converter. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Speed Control of DC Motor using single phase Full Converter. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Speed Control of DC Motor using Jone's Chopper. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Light intensity control using single phase AC voltage regulator. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Speed Control of single phase AC Motor using single phase AC voltage controller. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-6. Single phase Cyclo-converter fed AC Motor. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-7. Performance characteristics of series inverter for light load. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-8. Speed control of PMDC motor using MOSFET based Buck/Boost Converter. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-9. Simulation of 3 phase Half Controlled Bridge DC drives using MATLAB/ Simulink. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-10. Simulation of three-phase Induction Motor drive with VVVF control using MATLAB/Simulink. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-11. Simulation of closed loop control of PMDC Motor with half wave rectifier using MATLAB/Simulink. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-12. Simulation of four quadrant chopper fed DC motor using MATLAB/ Simulink. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-
-
-**Lab attendance is required**.
 
 ## <a name="cat">Continuous Assessment</a>
 
